@@ -1,2 +1,2 @@
 # csci2133-test
-Test repo
+This is a test repository
